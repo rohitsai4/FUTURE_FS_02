@@ -22,7 +22,7 @@ A simple CRM application to manage client leads generated from website contact f
 
 ## 🌐 Live Demo
 
-🔗 https://github.com/rohitsai4/FUTURE_FS_02 
+🔗 https://rohitsai4.github.io/FUTURE_FS_02/
 
 ## 📌 Skills Gained
 
